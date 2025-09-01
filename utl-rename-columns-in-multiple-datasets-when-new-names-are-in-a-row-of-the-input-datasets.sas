@@ -27,6 +27,10 @@ a  lunch  dinner | b  dinner  supper
 a  xname1 yname1 | b  xname2  yname2 >> New names
 a  mary   jane   | b  roger   john
 
+github
+https://tinyurl.com/9vazj4v8
+https://github.com/rogerjdeangelis/utl-rename-columns-in-multiple-datasets-when-new-names-are-in-a-row-of-the-input-datasets
+
 stackoverflow
 https://tinyurl.com/bdf8kzfw
 https://stackoverflow.com/questions/79736319/renaming-columns-within-map-dynamically-using-the-values-from-a-certain-row
